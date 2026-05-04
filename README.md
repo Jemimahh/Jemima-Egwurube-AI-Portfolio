@@ -39,7 +39,7 @@ My work spans four domains I care about deeply: **natural language processing**,
 - Evaluated per-class precision, recall, and F1 across all 20 categories
 - Results and confusion matrix visualizations in `results/`
 
-📁 [`DeepLearning-ITAI2376/Project1/`](./Jemima-Egwurube-DeepLearning-ITAI2376/)
+
 
 ---
 
@@ -67,7 +67,6 @@ My work spans four domains I care about deeply: **natural language processing**,
 | `topic_model.py` | LDA-based topic discovery across the corpus |
 | `summarizer.py` | Abstractive and extractive summarization |
 
-📁 [`NLP-ITAI2373/Project2/`](./NLP-ITAI2373/)
 
 ---
 
