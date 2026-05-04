@@ -1,11 +1,11 @@
 # Jemima Egwurube — AI Portfolio
 
-**AI Engineer · NLP Specialist · Robotics Builder**  
+**AI Engineer · Robotics Builder**  
 M.S. Computer Science · A.A.S. Artificial Intelligence (in progress) · Houston Community College  
 AWS Certified Cloud Practitioner · Azure AZ-900  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jemima--egwurube-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/jemima-egwurube)
-[![GitHub](https://img.shields.io/badge/GitHub-jemimaegwurube-181717?style=flat&logo=github)](https://github.com/jemimaegwurube)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jemima--egwurube-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/jemimaegwurube)
+[![GitHub](https://img.shields.io/badge/GitHub-jemima-181717?style=flat&logo=github)](https://github.com/Jemimahh)
 
 ---
 
@@ -39,33 +39,15 @@ My work spans four domains I care about deeply: **natural language processing**,
 - Evaluated per-class precision, recall, and F1 across all 20 categories
 - Results and confusion matrix visualizations in `results/`
 
-📁 [`DeepLearning-ITAI2376/Project1/`](./DeepLearning-ITAI2376/Project1/)
+
 
 ---
 
 ### NLP — ITAI 2373
 
-#### Project 1 · NewsBot Intelligence System *(Midterm)*
-
-> An NLP pipeline for automated analysis of BBC News articles — preprocessing through named entity recognition.
-
-| Detail | Value |
-|---|---|
-| Dataset | BBC News (multi-category) |
-| Techniques | TF-IDF, Sentiment Analysis (VADER/TextBlob), Named Entity Recognition (spaCy) |
-| Stack | Python, NLTK, spaCy, scikit-learn |
-
-**Pipeline stages:**
-1. Text preprocessing (tokenization, stopword removal, lemmatization)
-2. TF-IDF vectorization and keyword extraction
-3. Sentiment scoring per article
-4. NER tagging (persons, organizations, locations, dates)
-
-📁 [`NLP-ITAI2373/Project1/`](./NLP-ITAI2373/Project1/)
-
 ---
 
-#### Project 2 · NewsBot Intelligence System 2.0 *(Final)*
+#### Project 1 · NewsBot Intelligence System 2.0 *(Final)*
 
 > An extended, modular NLP intelligence system adding LLM-powered Q&A, multilingual support, topic modeling, and summarization to the midterm NewsBot.
 
@@ -76,7 +58,7 @@ My work spans four domains I care about deeply: **natural language processing**,
 | New modules | LLM Q&A, multilingual NLP, topic modeling (LDA), abstractive summarization |
 | Stack | Python, spaCy, NLTK, Ollama, langdetect, Gradio |
 
-**New modules over Project 1:**
+**New modules:**
 
 | Module | Description |
 |---|---|
@@ -85,7 +67,6 @@ My work spans four domains I care about deeply: **natural language processing**,
 | `topic_model.py` | LDA-based topic discovery across the corpus |
 | `summarizer.py` | Abstractive and extractive summarization |
 
-📁 [`NLP-ITAI2373/Project2/`](./NLP-ITAI2373/Project2/)
 
 ---
 
