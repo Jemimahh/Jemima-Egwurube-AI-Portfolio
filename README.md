@@ -1,6 +1,6 @@
 # Jemima Egwurube — AI Portfolio
 
-**AI Engineer · NLP Specialist · Robotics Builder**  
+**AI Engineer · Robotics Builder**  
 M.S. Computer Science · A.A.S. Artificial Intelligence (in progress) · Houston Community College  
 AWS Certified Cloud Practitioner · Azure AZ-900  
 
