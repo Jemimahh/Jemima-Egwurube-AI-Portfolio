@@ -4,8 +4,8 @@
 M.S. Computer Science · A.A.S. Artificial Intelligence (in progress) · Houston Community College  
 AWS Certified Cloud Practitioner · Azure AZ-900  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jemima--egwurube-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/jemima-egwurube)
-[![GitHub](https://img.shields.io/badge/GitHub-jemimaegwurube-181717?style=flat&logo=github)](https://github.com/jemimaegwurube)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jemima--egwurube-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/jemimaegwurube)
+[![GitHub](https://img.shields.io/badge/GitHub-jemimahh-181717?style=flat&logo=github)](https://github.com/jemimaegwurube)
 
 ---
 
