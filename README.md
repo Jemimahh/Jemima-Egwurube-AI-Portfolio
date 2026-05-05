@@ -40,7 +40,7 @@ My work spans four domains I care about deeply: **natural language processing**,
 - Simple reinforcement learning–style feedback loop for policy improvement
 - Safety and security layer with input validation, guardrails, and transparent fallbacks
 
-📁 [`DeepLearning-ITAI2376/Project1/`](./DeepLearning-ITAI2376/)
+📁 [`DeepLearning-ITAI2376/Project1/`](./Jemima-Egwurube-DeepLearning-ITAI2376/)
 
 
 
