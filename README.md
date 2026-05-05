@@ -43,6 +43,30 @@ My work spans four domains I care about deeply: **natural language processing**,
 
 ---
 
+### Computer Vision — ITAI 1378
+
+#### Project 1 · Food Classification — NutritionTracker CV System
+
+> EfficientNet-B0 fine-tuned on Food-101 (101 classes, 75,750 images) to classify food from a single photo and return estimated nutritional information — calories, protein, carbs, and fat.
+
+| Detail | Value |
+|---|---|
+| Model | EfficientNet-B0 (ImageNet → Food-101) |
+| Dataset | torchvision Food-101 · 101 categories · 75,750 train / 25,250 val |
+| Framework | PyTorch + torchvision |
+| Key techniques | Two-phase fine-tuning, data augmentation, label smoothing, CosineAnnealingLR |
+| Final accuracy | **86.27% Top-1** ✅ (target: ≥ 85%) |
+
+**Highlights:**
+- Two-phase transfer learning: frozen backbone (58.37%) → full fine-tune (86.27%) — a 28-point jump from one architectural decision
+- Top-3 inference with nutrition lookup table (calories, protein, carbs, fat per serving)
+- Best class: bibimbap F1 0.949 · Hardest class: apple_pie F1 0.684 (visual overlap with bread_pudding)
+- Training curves, confusion matrix, and per-class F1 chart in `results/`
+
+📁 [`ComputerVision-ITAI1378/Object_Detection_Project/`](./ComputerVision-ITAI1378/Food_Classification_Project/)
+
+---
+
 ### NLP — ITAI 2373
 
 ---
