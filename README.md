@@ -23,21 +23,24 @@ My work spans four domains I care about deeply: **natural language processing**,
 
 ### Deep Learning — ITAI 2376
 
-#### Project 1 · Food Classification with EfficientNet-B0
+#### Project 1 · Administrative Assistant Agent
 
-> Fine-tuned EfficientNet-B0 on a 20-category food image dataset (Kaggle) to classify dishes from photos.
+> An agentic AI system that automates a multi-step department kickoff meeting workflow — handling scheduling, documentation, reminders, and follow-ups through a coherent Planning-then-Execution architecture.
 
 | Detail | Value |
 |---|---|
-| Model | EfficientNet-B0 (transfer learning) |
-| Dataset | Food-101 subset · 20 categories |
-| Framework | PyTorch / TensorFlow |
-| Key techniques | Transfer learning, data augmentation, learning rate scheduling |
+| Architecture | Planning-then-Execution agent pattern |
+| Tools | Calculator, document summarizer |
+| Key techniques | Agent memory, tool integration, RL-style feedback & policy improvement |
+| Safety | Input validation, boundaries, fallbacks, transparency |
 
 **Highlights:**
-- Fine-tuned pretrained ImageNet weights on a food-specific distribution
-- Evaluated per-class precision, recall, and F1 across all 20 categories
-- Results and confusion matrix visualizations in `results/`
+- Coherent agent design: input → memory → reasoning → output pipeline
+- Tool-augmented execution with a calculator and document summarizer
+- Simple reinforcement learning–style feedback loop for policy improvement
+- Safety and security layer with input validation, guardrails, and transparent fallbacks
+
+📁 [`DeepLearning-ITAI2376/Project1/`](./DeepLearning-ITAI2376/)
 
 
 
